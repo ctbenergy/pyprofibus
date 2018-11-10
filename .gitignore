@@ -1,5 +1,6 @@
 build/
 .pybuild/
+.vscode/
 
 __pycache__/
 *.pyc
